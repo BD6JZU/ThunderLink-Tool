@@ -1,6 +1,3 @@
-这里是为你量身定制的 `README.md`，已经将项目名称和你的专属 GitHub 仓库链接完美整合进去了。你可以直接复制并提交到你的仓库中：
-
-```markdown
 # ⚡ ThunderLink Tool (迅雷链接转换大师)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
