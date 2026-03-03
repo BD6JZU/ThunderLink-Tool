@@ -26,8 +26,6 @@
 
 ## 📸 界面预览
 
-*(建议将运行截图命名为 light.png 和 dark.png 放入 screenshots 文件夹后，取消下方注释)*
-
 ![浅色模式](screenshots/light.png)
 ![深色模式](screenshots/dark.png) 
 
@@ -78,4 +76,3 @@ pyinstaller -F -w main.py
 
 ## 📄 开源协议
 本项目基于 [MIT License](LICENSE) 协议开源，你可以自由地学习、使用、修改和二次分发。
-```
