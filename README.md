@@ -1,4 +1,4 @@
-# ⚡ ThunderLink Tool (迅雷链接转换大师)
+# ⚡ ThunderLink Tool (迅雷链接转换工具)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green.svg)](https://pypi.org/project/PyQt6/)
